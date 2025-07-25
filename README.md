@@ -1,11 +1,6 @@
-
-<div align="center">
-  <img src="../docs/images/logo.png" alt="OER-Forge Logo" width="120" />
+# OER-Forge .github 🛠️
   
-  # OER-Forge .github 🛠️
-  
-  **Build, share, and improve WCAG-compliant Open Educational Resources with Python!**
-</div>
+**Build, share, and improve WCAG-compliant Open Educational Resources with Python!**
 
 ## Project Overview
 
