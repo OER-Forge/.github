@@ -1,5 +1,7 @@
 # OER-Forge
 
+![OER-Forge logo](https://github.com/OER-Forge/oer-forge.github.io/blob/main/static/logo.png)
+
 Open-source tools for education. Built because we needed them.
 
 ## About
