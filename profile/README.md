@@ -1,6 +1,6 @@
 # OER-Forge
 
-![OER-Forge logo](https://github.com/OER-Forge/oer-forge.github.io/blob/main/static/logo.png)
+<img src="https://github.com/OER-Forge/oer-forge.github.io/blob/main/static/logo.png" alt="OER-Forge logo" width="120"/>
 
 Open-source tools for education. Built because we needed them.
 
