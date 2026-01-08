@@ -14,10 +14,6 @@ OER-Forge is a collection of tools created to solve real problems in teaching an
 * **[RaiseMyHand](https://oer-forge.github.io/raisemyhand/)** – Real-time classroom question management. Students submit questions anonymously and upvote each other's questions—like Reddit, but for your classroom. Instructors get a dashboard to see, moderate, and respond to the most important questions. Built with FastAPI, WebSockets, and works with Docker. Designed for lectures, labs, seminars, and online courses.
 * **[jupyter2hugo](https://oer-forge.github.io/jupyter2hugo)** - Python tool for converting a Jupyter Book to a Hugo site. Includes support for code markup, LaTeX markup, and local figures. Designed to produce accessible and flexible Hugo implementations compatible with Hugo themes.
 
-## Philosophy
-
-Build tools that solve actual problems. Keep them simple. Make them accessible. Release as open source so others can use and improve them.
-
 ## Repos
 
 - https://github.com/OER-Forge/wikiaccess
